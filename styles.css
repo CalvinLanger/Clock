@@ -64,7 +64,7 @@ button:active {
 
 @media screen and (max-width: 575px) {
   .box {
-    height: 100vh;
+    height: 90vh;
     margin: 0 auto;
   }
 
